@@ -1,4 +1,32 @@
 <resources>
     <string name="app_name">Layouts</string>
     <string name="action_settings">Settings</string>
+
+    <string-array name="Title">
+        <item>All you can eat</item>
+        <item>Italian Lounge Courses</item>
+        <item>Nairobi City Nature Tour</item>
+        <item>Sunday BBQ</item>
+        <item>Pizza Specials</item>
+        <item>The Amazing Kids Club</item>
+        <item>Churchill Live</item>
+        <item>Urban Native</item>
+        <item>PHP Meetup</item>
+        <item>Karaoke Night</item>
+        <item>Hot Salsa Fridays</item>
+        <item>African Modern Exhibition</item>
+    </string-array>
+    <string-array name="Description">
+        <item>Join us for chicken every Tuesday</item>
+        <item>Learn Italian made easy</item>
+        <item>CHeck out Nairobi Nature</item>
+        <item>Berbeque with family</item>
+        <item>Have a taste of our variety of pizza</item>
+        <item>Laughter and entertainment</item>
+        <item>DJ Namoski entertainment</item>
+        <item>Learn PHP</item>
+        <item>Singing and entertainment</item>
+        <item>Seven Lounge and Grill entertainment</item>
+        <item>Gallery collections</item>
+    </string-array>
 </resources>

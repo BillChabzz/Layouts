@@ -17,6 +17,30 @@
 
     <include layout="@layout/content_main" />
 
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="startImageView"
+                android:gravity="center"
+                android:text="start Image layout"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="startTextLayout"
+                android:gravity="center"
+                android:text="start text linear layout"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="startListLayout"
+                android:gravity="center"
+                android:text="start list layout"/>
+        </RelativeLayout>
+
     <android.support.design.widget.FloatingActionButton android:id="@+id/fab"
         android:layout_width="wrap_content" android:layout_height="wrap_content"
         android:layout_gravity="bottom|end" android:layout_margin="@dimen/fab_margin"
